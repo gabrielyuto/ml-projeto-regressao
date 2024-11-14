@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "projeto-regresao-linear"
+name = "regressao-linear"
 version = "0.1.0"
 description = ""
 authors = ["Gabriel Munakata <gabrielyuto2016@gmail.com>"]
